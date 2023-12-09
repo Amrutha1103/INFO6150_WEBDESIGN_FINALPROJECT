@@ -11,17 +11,35 @@ A brief description of the hospital management system, including its purpose, sc
 - Administration: Oversee hospital operations, staff, and financials,
   Adding doctor appointments,Adding news pages,Adding medicine.
 
-## Technologies Used
-- Frontend: React, JavaScript, HTML, CSS
-- Backend: Node.js, Express.js
-- Database: MongoDB, Mongoose
+# technology stack:
 
-## Getting Started
-Instructions for setting up the project locally.
-### Prerequisites
-- Node.js
-- npm or Yarn
-- MongoDB
+*front end*
+
+React
+
+*Material UI - for UI components*
+
+*React Router - for client side routing*
+
+*Axios - for HTML requests*
+
+*Bootstrap*
+
+*JQuery*
+
+Backend:
+
+*Node.js - for runtime environment* 
+
+*Express*
+
+*Mongoose*
+
+*Bcrypt - for encrypting passwords*
+
+*jsonwebtoken - to create JWT for secure authentication*
+
+*Nodemon*
 
 ### Installation
 1. Clone the repository
