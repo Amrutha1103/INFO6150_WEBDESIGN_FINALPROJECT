@@ -16,7 +16,7 @@ A brief description of the hospital management system, including its purpose, sc
 - Frontend: React, JavaScript, HTML, CSS, Material UI - for UI components, React Router - for client side routing, Axios - for HTML requests, Bootstrap, JQuery
 - Backend: Node.js - for runtime environment, Express.js, Mongoose, Bcrypt - for encrypting passwords, jsonwebtoken - to create JWT for secure authentication, Nodemon
 - Database: MongoDB, Mongoose
-- Deployment: (if applicable, e.g., Heroku, AWS)
+
 
 ## Getting Started
 Instructions for setting up the project locally.
