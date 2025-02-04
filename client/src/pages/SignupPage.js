@@ -58,6 +58,7 @@ function SignupPage() {
                 }
                 else{
                   //TODO: display error message
+                  /* hello*/
                   setErrorList(data.errors);
                   handleDialogueOpen();
                 }
@@ -193,7 +194,7 @@ function SignupPage() {
           <div className='text-center'>
             Already have an account? <NavLink to="/login" exact >Sign In</NavLink>
           </div>
-
+            
         </form>
       </div>
       <ErrorDialogueBox
